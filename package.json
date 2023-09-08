@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/universal-router-sdk",
-  "version": "1.5.7",
+  "name": "@phuphamdeltalabs/universal-router-sdk",
+  "version": "1.0.1",
   "description": "sdk for integrating with the Universal Router contracts",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -49,12 +49,12 @@
     "typescript": "^4.3.3"
   },
   "dependencies": {
+    "@phuphamdeltalabs/router-sdk": "^1.0.1",
+    "@phuphamdeltalabs/sdkcore": "^5.0.0",
+    "@phuphamdeltalabs/v2-sdk": "^1.0.4",
+    "@phuphamdeltalabs/v3sdk": "^1.0.1",
     "@uniswap/permit2-sdk": "^1.2.0",
-    "@uniswap/router-sdk": "^1.6.0",
-    "@uniswap/sdk-core": "^4.0.0",
     "@uniswap/universal-router": "1.4.3",
-    "@uniswap/v2-sdk": "^3.2.0",
-    "@uniswap/v3-sdk": "^3.10.0",
     "bignumber.js": "^9.0.2",
     "ethers": "^5.3.1"
   },
