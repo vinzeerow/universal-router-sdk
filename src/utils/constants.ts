@@ -99,6 +99,12 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     weth: '0x4200000000000000000000000000000000000006',
     creationBlock: 1452376,
   },
+  // op bnb testnet
+  [5611]: {
+    router: '0x198EF79F1F515F02dFE9e3115eD9fC07183f02fC',
+    weth: '0x4200000000000000000000000000000000000006',
+    creationBlock: 1452376,
+  },
 }
 
 export const UNIVERSAL_ROUTER_ADDRESS = (chainId: number): string => {
