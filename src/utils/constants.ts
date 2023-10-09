@@ -99,11 +99,11 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     weth: '0x4200000000000000000000000000000000000006',
     creationBlock: 1452376,
   },
-  // op bnb testnet
+  // // op bnb testnet
   [5611]: {
-    router: '0x198EF79F1F515F02dFE9e3115eD9fC07183f02fC',
+    router: '0xCD6C169a3AA891F7B4Bb698B08aDdE6CC6Ba703f',
     weth: '0x4200000000000000000000000000000000000006',
-    creationBlock: 1452376,
+    creationBlock: 9955674,
   },
 }
 
