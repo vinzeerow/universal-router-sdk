@@ -1792,10 +1792,10 @@
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
 
-"@phuphamdeltalabs/sdkcore@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@phuphamdeltalabs/sdkcore/-/sdkcore-5.0.1.tgz#8e809b4864c8db083125df58698c66a20e1300e3"
-  integrity sha512-8k1Z6ykBOUYLiXJjBLhHiBWFTjHapCn9A7UgWBi3M9d633mHw6tcdE53o2hjPrLKIPXqaVDUox/Hrc+AK0wIKg==
+"@phuphamdeltalabs/sdkcore@^5.0.4":
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/@phuphamdeltalabs/sdkcore/-/sdkcore-5.0.4.tgz#514e304ca35ca73953f2c279b009f0024af4eaa9"
+  integrity sha512-8hWnT6k/zK8pDQ8UedGBxwgPwPVimuFWfc963EHvc/B0P2UCQ9rLgIvnCy3VtM+O0LpV8VHvXaSbUprOtxNMIg==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
