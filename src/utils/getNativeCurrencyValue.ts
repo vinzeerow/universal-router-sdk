@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Ether } from '@phuphamdeltalabs/sdkcore'
+import { Currency, CurrencyAmount, Ether } from '@tpvinh/sdk-core'
 
 export function getNativeCurrencyValue(currencyValues: CurrencyAmount<Currency>[]): CurrencyAmount<Currency> {
   for (const value of currencyValues) {
